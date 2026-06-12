@@ -87,29 +87,9 @@ Output
 
 ## 🎥 Demo Video
 
-[▶️ Watch Demo](demo.mp4)
-
 ---
-
-## 📸 Screenshots
-
-### Home Page
-
-![Home](screenshots/home.png)
-
-### Translation Interface
-
-![Translator](screenshots/translator.png)
-
-### OCR Extraction
-
-![OCR](screenshots/ocr.png)
-
-### Voice Translation
-
-![Voice](screenshots/voice.png)
-
----
+**###Video-overview**
+<video src="enter " controls width="100%"> Your browser does not support the video tag. </video>
 
 ## 🌎 Supported Use Cases
 
